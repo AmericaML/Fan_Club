@@ -43,3 +43,8 @@ All images and graphics are located in the `images` folder.
 ## 📬 Contact
 
 For more information, please contact the [designer] me.
+
+
+Here’s the inspiration and visual direction for this campaign:
+
+![Moodboard](images/victorian_moodboard.png)
