@@ -48,3 +48,7 @@ For more information, please contact the [designer] me.
 Here’s the inspiration and visual direction for this campaign:
 
 ![Moodboard](images/victorian_moodboard.png)
+
+Here’s a preview of the campaign website:
+
+![Website Snapshot](images/snapshot_banner_campaign_website.png)
